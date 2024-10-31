@@ -5,7 +5,7 @@ The source code for [debgen.xyz](https://debgen.xyz)
 ## Install source code
 
 ```
-git clone https://github.com/rwarasaurus/debgen.git .
+git clone https://github.com/jeanmajolo/debgen.git .
 ```
 
 ## Install packages
