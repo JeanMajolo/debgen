@@ -7,6 +7,7 @@
         src = document.querySelector('input[name=src]'),
         contrib = document.querySelector('input[name=contrib]'),
         nonfree = document.querySelector('input[name=non-free]'),
+        nonfreefirmware = document.querySelector('input[name=non-free-firmware]'),
         security = document.querySelector('input[name=security]');
 
     var sourceList = [];
