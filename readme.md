@@ -1,4 +1,4 @@
-The source code for [debgen.xyz](https://debgen.xyz)
+The source code for [debgen.jcmhost.com.br/](https://debgen.jcmhost.com.br/)
 
 # Setup
 
