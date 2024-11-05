@@ -8,7 +8,7 @@ async function initI18next() {
         .use(LanguageDetector)
         .init({
             debug: true,
-            supportedLngs: ["de", "en"],
+            supportedLngs: ["de", "en", "pt-br"],
             load: "languageOnly",
             fallbackLng: "en",
             nonExplicitSupportedLngs: true,
